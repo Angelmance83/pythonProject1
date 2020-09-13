@@ -5,6 +5,9 @@ for i in [0, 1, 2]:
         print("es igual 0")
         print("terminar")
     print("ok")
+    print("prueba")
+    print("prueba2")
+    print("prueba3")
 
 
 
